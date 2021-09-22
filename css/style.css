@@ -56,6 +56,10 @@ h6 {
   color: #e24727 !important;
 }
 
+.hyperlink {
+  border-bottom: 2px solid;
+}
+
 .bg-base-color {
   background-color: #e24727 !important;
 }
